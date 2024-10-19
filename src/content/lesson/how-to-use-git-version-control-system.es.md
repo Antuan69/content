@@ -1,6 +1,6 @@
 ---
-title: "Cómo usar GIT: Sistema de control de versiones"
-subtitle: "Aprenda cómo usar GIT con un tutorial interactivo, un video y un excelente artículo. Sin GIT, no podrá trabajar en ninguna empresa y no podrá utilizar el código de nadie."
+title: "Cómo usar GITHUB: Sistema de control de versiones"
+subtitle: "Aprenda cómo usar GITHUB con un tutorial interactivo, un video y un excelente artículo. Sin GIT, no podrá trabajar en ninguna empresa y no podrá utilizar el código de nadie."
 cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 thumb: "https://breatheco.de/wp-content/uploads/2017/03/commit-object.png"
@@ -12,13 +12,13 @@ status: "published"
 
 > ☝ También hemos preparado un tutorial interactivo sobre GIT. [Haga clic aquí para tomarlo!](https://4geeksacademy.github.io/git-interactive-tutorial/)
 
-## ¡GIT es una necesidad!
+## ¡GITHUB es una necesidad!
 
 GIT es una gran tecnología, toma el tiempo para aprenderla. NO lo postergues porque no puedes evitarlo. Lo usarás todos los días, varias veces al día. Así que es mejor que aprendas y te sientas cómodo con eso.
 
 GIT es más que un "conjunto de comandos" que tienes que aprender. A lo largo de los años, hemos aprendido que la mejor manera de enseñar GIT es mediante la comprensión de los conceptos y el significado de la tecnología, en lugar de dar una lista de los comandos que se debe usar.
 
-## ¿Por qué molestarse en usar GIT?
+## ¿Por qué molestarse en usar GITHUB?
 
 Ser el único desarrollador en un proyecto es una [utopía](https://dle.rae.es/utop%C3%ADa). Normalmente, colaboras con otros desarrolladores y, sin GIT, eso se convierte en un gran problema. Es por eso que necesitamos un *repositorio* de información para centralizar y gestionar los cambios. Con un *repositorio* nos referimos a lo siguiente:
 
@@ -33,7 +33,7 @@ El propósito de GIT es interactuar con el repositorio de un proyecto (un conjun
 
 ## Arquitectura de un repositorio
 
-Un **repositorio** GIT se compone de lo siguiente:
+Un **repositorio** GITHUB se compone de lo siguiente:
 
 + Un conjunto de **objetos de confirmación (commit object)**.
 + Un conjunto de referencias para comentar objetos, llamados **heads**.
